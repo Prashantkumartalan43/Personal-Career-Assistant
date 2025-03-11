@@ -54,6 +54,6 @@ Structure of Interaction:
 
 ## Model Interaction and Usage Demonstration  
 Explore and download the model on OpenWebUI: [Personal Career Assistant](https://openwebui.com/m/pktalan/personal-career-assistant)  
-The following picture demonstrates a conversation between Maya and its user:  
+The following picture demonstrates a conversation between Career Assistant and its user:  
 
 ![Screenshot 2025-03-11 220637](https://github.com/user-attachments/assets/833716f0-cf95-48ce-ba70-782a30bbca80)
